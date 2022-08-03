@@ -1,0 +1,27 @@
+.scrollToTop-btn{
+    z-index: 999;
+
+    padding: 2px;
+    height: 45px !important;
+    background-color: #0facd3;
+
+    position: fixed;
+    /* background: #0e6dac; */
+    color: #fff;
+    width: 45px;
+    /* height: 45px; */
+    right: 20px;
+    bottom: 20px;
+    font-size: 22px;
+    /* text-align: center; */
+    line-height: 45px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    cursor: pointer;
+    pointer-events: none;
+    opacity: 1;
+    transition: all 0.8s ease;
+    pointer-events: auto;
+    transform: translateY(0px);
+  }
+  
